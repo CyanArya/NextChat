@@ -1,3 +1,4 @@
+
 Next Chat 🚀
 Next Chat is a state-of-the-art, full-stack real-time messaging and collaboration platform. Built to provide seamless communication, Next Chat leverages modern technologies to offer a feature-rich and dynamic user experience, making it ideal for both personal communication and team collaboration.
 
@@ -59,3 +60,5 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 Contact
 For inquiries or support, please reach out to dontulwar.aarya19@gmail.com.
+
+
