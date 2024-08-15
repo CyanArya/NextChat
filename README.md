@@ -39,7 +39,7 @@ Dive into the future of communication with Next Chat. Start by exploring our [Gi
 
 ## Get a glimpse of NextChat in action by clicking on the thumbnail below to watch the demo video:
 
-[![Watch the video]()](https://github.com/gincode18/NextTube/assets/91776192/4f78a287-8732-4642-9569-0802370ce1ba)
+[![Watch the video]()]()
 
 **Next Chat** - Your ultimate solution for real-time messaging and collaboration. 🌐✨
 **Next Chat** - Your ultimate solution for real-time messaging and collaboration. 🌐✨
